@@ -1,4 +1,4 @@
-# amazon-scraper
+# Amazon-scraper
  Amazon-scraper A simple API  to studyng using node, using scraperapi; 
 
 ### Technologies used 
@@ -9,6 +9,6 @@
 - scraperapi.com
 
 ### Hosted at 
-https://fly.io/
+- https://fly.io/
 
 
